@@ -1,4 +1,5 @@
 <h2 align ="center">Hey there ,I am Pari Raj </h2>
+
 ```java
 public class PariRaj {
 String role = "B.Tech 3rd year Student |CSE (AI-ML)undergrad |Aspiring SDE";
@@ -15,6 +16,8 @@ String specialization = "Artificial Intelligence & Machine Learning";
  PariRaj me=new PariRaj();
  me.sayHi();
  }
- }```
+ }
+```
+
 
 
