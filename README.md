@@ -42,17 +42,27 @@ String specialization = "Artificial Intelligence & Machine Learning";
 </p>
 
 ---
-
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pariraj18&show_icons=true&theme=tokyonight" alt="Pari's GitHub stats" />
+</p>
 
-[![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariraj18&show_icons=true&theme=tokyonight)](https://github.com/pariraj18)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pariraj18&layout=compact&theme=tokyonight)](https://github.com/pariraj18)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariraj18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pari-raj-996884324)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pariraj18)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpariraj18092006@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/pari-raj-996884324" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/pariraj18" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:pariraj18092006@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
