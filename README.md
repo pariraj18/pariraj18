@@ -55,7 +55,7 @@ String specialization = "Artificial Intelligence & Machine Learning";
 
 ### 🔗 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/pari-raj-996884324" target="_blank">
+  <a href="https://linkedin.com/in/pari-raj-996854324" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/pariraj18" target="_blank">
