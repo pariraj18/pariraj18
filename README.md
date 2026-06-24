@@ -51,6 +51,9 @@ String specialization = "Artificial Intelligence & Machine Learning";
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariraj18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## LeetCode Stats 🔥
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Pariraj18?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Pariraj18)
+
 ---
 
 ### 🔗 Connect With Me
