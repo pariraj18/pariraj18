@@ -34,14 +34,35 @@ String specialization = "Artificial Intelligence & Machine Learning";
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pariraj18&show_icons=true&theme=tokyonight" alt="Pari's GitHub stats" />
+<h3>Core Subjects</h3>
+<p>
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-orange?style=for-the-badge" />
 </p>
 
+<h3>Database</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+</p>
+
+---
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariraj18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pariraj18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" alt="Pari's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=pariraj18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariraj18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" alt="Top Languages" />
 </p>
 
 ## LeetCode Stats 🔥
